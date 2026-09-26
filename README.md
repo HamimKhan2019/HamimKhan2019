@@ -38,4 +38,4 @@
 | [HRTax](https://github.com/HamimKhan2019/HRTax) | Tax calculator for HR management | C# |
 
 ### 📫 Reach Me
-<!-- Add LinkedIn / email badges here -->
+[<!-- Add LinkedIn / email badges here -->](https://www.linkedin.com/in/hamim-khan-37614436a/)
