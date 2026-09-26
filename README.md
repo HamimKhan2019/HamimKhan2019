@@ -6,7 +6,7 @@
 🔭 Interested in Deep Learning & Computer Vision
 🛠️ Tech Stack
 
-https://skillicons.dev/icons?i=c,cpp,csharp,dotnet,angular,git,github,vscode
+Backend: ASP.NET Core, EF Core, REST APIs, Clean Architecture, CQRS Frontend: Angular Data/Infra: SQL, Docker, Redis, Kafka, gRPC
 
 
 
