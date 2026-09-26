@@ -6,7 +6,8 @@
 🔭 Interested in Deep Learning & Computer Vision
 🛠️ Tech Stack
 
-Show Image
+<img width="1267" height="850" alt="image" src="https://github.com/user-attachments/assets/7752665f-2d43-4930-8cb0-6681a31a5246" />
+
 
 📊 GitHub Stats
 
