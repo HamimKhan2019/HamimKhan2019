@@ -25,7 +25,7 @@
 **Data/Infra:** SQL, Docker, Redis, Kafka, gRPC
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=HamimKhan2019&show_icons=true&theme=tokyonight&count_private=true)
+
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamimKhan2019&theme=tokyonight)
 
