@@ -25,7 +25,7 @@
 **Data/Infra:** SQL, Docker, Redis, Kafka, gRPC
 
 ### 📊 GitHub Stats
-
+![Stats](https://github-readme-stats.vercel.app/api?username=HamimKhan2019&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamimKhan2019&theme=tokyonight)
 
@@ -38,4 +38,5 @@
 | [HRTax](https://github.com/HamimKhan2019/HRTax) | Tax calculator for HR management | C# |
 
 ### 📫 Reach Me
-<!-- Add LinkedIn / email badges here -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamim-khan-37614436a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamimkhan2019@gmail.com)
