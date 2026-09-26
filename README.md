@@ -6,16 +6,14 @@
 🔭 Interested in Deep Learning & Computer Vision
 🛠️ Tech Stack
 
-![Uploading ChatGPT Image Sep 27, 2026, 02_21_02 AM.png…]()
+
 
 
 
 
 📊 GitHub Stats
 
-Show Image
 
-Show Image
 
 📌 Featured Projects
 Project	Description	Stack
