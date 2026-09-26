@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hamim Khan 👋</h1> <p align="center"> <b>Backend Developer • CS Student (IUBAT) • SWE Intern @ MISLBD</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20DL%20%7C%20CV-blue" /> <img src="https://img.shields.io/badge/Status-Available-brightgreen" /> </p>
+🧠 About Me
+🎓 BCSE student at IUBAT, backend-focused
+💼 Software Dev Intern at MISLBD — building on a predefined clean-architecture backend/frontend repo
+🌱 Coming from C/C++, now leveling up full-stack skills
+🔭 Interested in Deep Learning & Computer Vision
+🛠️ Tech Stack
 
-<!--
-**HamimKhan2019/HamimKhan2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Show Image
 
-Here are some ideas to get you started:
+📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Show Image
+
+Show Image
+
+📌 Featured Projects
+Project	Description	Stack
+MarkdownConverter	Any file → Markdown converter	HTML
+EmployeeManagementAPI	Simple employee management system API	C#
+Simple_Employee_Management	Employee mgmt system w/ Angular frontend	C#
+HRTax	Tax calculator for HR management	C#
+📫 Reach Me
+[<!-- Add LinkedIn / email badges here -->](https://www.linkedin.com/in/hamim-khan-37614436a/)
