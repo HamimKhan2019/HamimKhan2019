@@ -18,7 +18,7 @@
 - 🔭 Interested in Deep Learning & Computer Vision
 
 ### 🛠️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=c,cpp,csharp,dotnet,angular,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,angular,git,github,vscode)
 
 **Backend:** ASP.NET Core, EF Core, REST APIs, Clean Architecture, CQRS
 **Frontend:** Angular
